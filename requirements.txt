@@ -1,0 +1,10 @@
+voila
+voila-material
+bqplot
+pandas
+numpy 
+ipyvuetify
+ipywidgets
+ipyleaflet
+bqplot
+matplotlib
